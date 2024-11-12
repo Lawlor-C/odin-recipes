@@ -11,7 +11,7 @@
      padding-top: 2px;
      margin: 400px;
      display: block;    
-     width: 700px;
+     width: fit-content;
      text-align: center;
 
 }
@@ -22,5 +22,5 @@
     font-weight: bold;
     font-size: 24px;
     padding: 8px;
-    margin: 50px auto;
+    margin: 15px auto;
     }
