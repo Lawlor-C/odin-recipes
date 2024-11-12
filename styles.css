@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: gold;
+       
+}
+
+.recbox {
+     background: #129723;
+     padding-top: 2px;
+     margin: 400px;
+     display: block;    
+     width: 700px;
+     text-align: center;
+
+}
+
+.reclink {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 8px;
+    margin: 50px auto;
+    }
